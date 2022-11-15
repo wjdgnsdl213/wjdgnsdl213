@@ -24,7 +24,9 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    
 ###
 ![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
 ![Stack](https://img.shields.io/badge/GoogleColab-FFD700?style=flat-square&logo=GoogleColab&logoColor=black)
