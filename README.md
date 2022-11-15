@@ -25,9 +25,17 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
+###
+![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
+![Stack](https://img.shields.io/badge/GoogleColab-FFD700?style=flat-square&logo=GoogleColab&logoColor=black)
+![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
+![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 
-### ![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgnsdl213&layout=compact&theme=tokyonight)
+###
+-->
 
 ### 📬 Contact
 
