@@ -1,8 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=wjdgnsdl213&fontSize=70) -->
 
-<div align="center"><h2>
-    Hello My name is Jeonghun Kim
-</div>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=  This is Hun's github  &fontSize=40)
+
 
 
 
@@ -50,12 +49,12 @@ wjdgnsdl213@gmail.com
 
 ### Grade
 
-### _Take 54 credits, GPA : 4.369/4.5
+### _Take 69 credits, GPA : 4.38/4.5
 
 | *Semester* |                           *Spring*                           | *Summer* |                            *Fall*                            | *Winter* |
 | :--------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :------: |
 | *1st year* | ![Grade](https://img.shields.io/badge/grade-4.44%2F4.5-blue) |    -     | ![Grade](https://img.shields.io/badge/grade-4.34%2F4.5-blue) |    -     |
-| *2nd year* | ![Grade](https://img.shields.io/badge/grade-4.32%2F4.5-blue) |    -     |                                                              |    -     |
+| *2nd year* | ![Grade](https://img.shields.io/badge/grade-4.32%2F4.5-blue) |    -     | ![Grade](https://img.shields.io/badge/grade-4.4%2F4.5-blue)  |    -     |
 | *3rd year* |                                                              |          |                                                              |          |
 | *4th year* |                                                              |          |                                                              |          |
 
