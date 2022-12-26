@@ -1,6 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=wjdgnsdl213&fontSize=70) -->
 
-![Footer](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=footer&text=This is Hun's github&fontSize=40)
+<div align="center"><h2>
+    This is Hun's github
+</div>
 
 
 
@@ -62,5 +64,5 @@ wjdgnsdl213@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjdgnsdl213&layout=compact&theme=nightowl)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
     
