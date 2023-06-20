@@ -44,20 +44,7 @@ Techs that I've used at least once
 wjdgnsdl213@gmail.com
 
 
-### ###
 
-###
-
-### Grade
-
-### _Take 72 credits, GPA : 4.38/4.5
-
-| *Semester* |                           *Spring*                           | *Summer* |                            *Fall*                            | *Winter* |
-| :--------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :------: |
-| *1st year* | ![Grade](https://img.shields.io/badge/grade-4.44%2F4.5-blue) |    -     | ![Grade](https://img.shields.io/badge/grade-4.34%2F4.5-blue) |    -     |
-| *2nd year* | ![Grade](https://img.shields.io/badge/grade-4.32%2F4.5-blue) |    -     | ![Grade](https://img.shields.io/badge/grade-4.4%2F4.5-blue)  | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue) |
-| *3rd year* |                                                              |          |                                                              |          |
-| *4th year* |                                                              |          |                                                              |          |
 
 # 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkmain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
